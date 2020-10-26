@@ -7,4 +7,5 @@ steps:
     - 'rsync'
     - '-d'
     - '-r'
+    - '.'
     - 'gs://australia-southeast1-test-a075d426-bucket'
